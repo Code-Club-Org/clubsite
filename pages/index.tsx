@@ -10,7 +10,6 @@ export default function Home() {
             Welcome to <a href="https://nextjs.org">Next.js!</a>
           </h1>
 
-          <Link href="/about"><a>about</a></Link>
 
           <p className="description">
             Get started by editing <code>pages/index.js</code>

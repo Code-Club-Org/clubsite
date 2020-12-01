@@ -7,9 +7,6 @@ export default function layout({ children }) {
       <Head>
         <title>Intro into Next by shaun THE GREAT!</title>
       </Head>
-
-      <Link href="/">Home</Link>
-      <Link href="/about">About</Link>
       { children }
     </>
   );
